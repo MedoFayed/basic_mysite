@@ -1,0 +1,34 @@
+/* .bg-dark{
+    background-color: blue;
+} */
+.navbar {
+    background-color: #004080 !important;
+    /* border-color: #425766; */
+    color: #FFFFFF;
+    /* background-color: rgb(6, 73, 112) !important; */
+}
+
+/* START OF Change Footer Background, Border, Font/Color/Size, Alignment */
+/* Change Background, Border, Font/Color as needed  */
+footer#footer .colophon {
+    background:     none repeat scroll 0 0 blue;
+    border-top:     12px solid red;
+    }
+    /* Change font-size, alignment as needed  */
+    footer#footer .colophon  p, footer#footer .colophon  a {
+    color:          red;
+    font-size:      1em ;
+    text-align:     center;
+    line-height:    1.2em ;
+    }
+    /* Change color/padding of Social Icons */
+    footer#footer .colophon .social-block a {
+    color:          red;
+    padding:        0px ;
+    }
+    /* Change font-size/color of BackToTop */
+    footer#footer .colophon a.back-to-top {
+    font-size:      1em;
+    color:          red;
+    }
+    /* END OF Change Footer Background, Border, Font/Color/Size, Alignment */
