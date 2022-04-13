@@ -1,14 +1,15 @@
 @font-face {
-  /* font-family: 'Candal', sans-serif; */
-  /* font-family: 'Yanone Kaffeesatz', sans-serif; */
-    font-family: 'Fjalla One', sans-serif;
-  /* font-family: 'Tagawal'; */
-  /* src: url('../fonts/Tajawal/Tajawal-Regular.ttf') format("truetype"), local("Tajawal"); */
+  font-family: 'Candal', sans-serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Tagawal';
+  src: url('../fonts/Tajawal/Tajawal-Regular.ttf') format("truetype"), local("Tajawal");
 }
 
 body {
     /* background: #ecdfdf; */
-    background: rgb(233, 221, 221);
+    /* background: rgb(233, 221, 221); */
+    background: #8fb4cf;
     color: #333333;
     margin-top: 1rem;
   }
